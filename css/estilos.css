@@ -9,7 +9,6 @@
   font-style: normal;
   font-display: block;
 }
-
 [class^="icon-"], [class*=" icon-"] {
   font-family: 'icomoon' !important;
   speak: never;
@@ -21,7 +20,6 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
 .icon-menu:before {
   content: "\e9bd";
 }
@@ -50,7 +48,6 @@ h1 {
   margin: 0;
   /* margin: 100px 150px 70px 30px; */
   /* text-transform: uppercase; */
-  /* text-decoration: dashed; */
 }
 h1 strong {
   color: #fafafa;

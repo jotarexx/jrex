@@ -189,7 +189,6 @@ figure {
   display: flex;
   /* flex-wrap: nowrap; */
   flex-wrap: wrap;
-  /* flex-direction: column; */
 }
 
 .box {

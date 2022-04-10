@@ -282,7 +282,6 @@ figure {
 }
  
 .container {
-  /* border: 1px solid red; */
   max-width: 1000px;
   flex: 1;
   margin: 0 auto;

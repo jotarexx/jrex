@@ -325,8 +325,6 @@ figure {
   border: red;
 }
 
-/* desktop first, empezamos el MQ desde el mas grande */
-
 @media screen and (max-width: 1024px) {
  .container{
     padding: 0 1em;

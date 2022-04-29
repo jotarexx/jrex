@@ -331,7 +331,7 @@ figure {
   }
   .hero{
   height: auto;
-  position: relative; /* para que funcione la posicion ABSOLUTE de otros elementos HIJOS, primero tenemos que indicarle al padre que sea RELATIVE */
+  position: relative;
   overflow: hidden;
   padding: 2em;
   }

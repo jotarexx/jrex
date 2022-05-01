@@ -335,9 +335,7 @@ figure {
   overflow: hidden;
   padding: 2em;
   }
-/*   .hero-image{
-        
-  }                  */
+
    h1{
     font-size: 2em;
     z-index: 2;/* texto por delante de la imagen */

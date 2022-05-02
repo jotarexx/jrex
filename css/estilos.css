@@ -338,7 +338,7 @@ figure {
 
    h1{
     font-size: 2em;
-    z-index: 2;/* texto por delante de la imagen */
+    z-index: 2;
   }
  
 }

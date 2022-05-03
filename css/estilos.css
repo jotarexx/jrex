@@ -343,7 +343,7 @@ figure {
  
 }
 
-@media screen and (max-width: 769px) { /* tablet */
+@media screen and (max-width: 769px) {
    h1{
     font-size: 1.5em;
   }

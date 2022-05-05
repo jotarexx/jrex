@@ -340,7 +340,6 @@ figure {
     font-size: 2em;
     z-index: 2;
   }
- 
 }
 
 @media screen and (max-width: 769px) {
@@ -390,7 +389,7 @@ figure {
     width: 240px;
     border-radius: 144px;
     height: 235px;
-    margin-right: 80px;  */
+    */
   }
   .container{
     justify-content: center;

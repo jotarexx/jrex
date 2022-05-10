@@ -384,9 +384,6 @@ figure {
   }
   .hero-image{
     display: none;
-/*     object-fit: cover;
-    
-        */
   }
   .container{
     justify-content: center;

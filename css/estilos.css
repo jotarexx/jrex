@@ -427,7 +427,7 @@ figure {
     
   }
   .event-detail{ 
-    margin: 0em .5em .5em; /* (ar,de,ab,iz) el 4to valor es el mismo que el 2do, ya que si no ponemos nada, repite el valor de su otro lado. */
+    margin: 0em .5em .5em; /* (ar,de,ab,iz) el 4to valor es el mismo que el 2do. */
   }
   .event-2{
     margin: 0;

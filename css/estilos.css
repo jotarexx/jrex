@@ -189,7 +189,6 @@ figure {
   border: 1px solid red;
   flex-shrink: 0;
 }
- 
 .event-list {
   display: flex;
   flex-wrap: wrap;

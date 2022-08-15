@@ -224,15 +224,27 @@ figure {
   text-decoration: none;
   border-radius: 5px;
 }
+.event-url:hover {
+  text-decoration: none;
+  color: #3a0c88;
+  background-color: rgb(191, 191, 223);
+}
 .event-2{
   margin: 31px;
 }
 .event-url-2 {
-  color: #5c33a4;
-  border: 2px solid;
+  font-size: 20px;
+  color: white;
+  background-color: #776497;
+  border: 2px solid #3d354b;
   padding: 5px 20px;
   text-decoration: none;
   border-radius: 5px;
+}
+.event-url-2:hover {  
+background-color: rgb(191, 191, 223);
+text-decoration: none;
+color: #501daa;
 }
 
 .contact {

@@ -121,6 +121,12 @@ a {
 .project-imageContainer img {
   max-width: 100%;
 }  
+.event-project-2{
+  margin: 20px 40px;
+  position: relative;
+  padding: 20px;
+  text-align: center;
+}
 
 .header {
   background-color: #1b2127;

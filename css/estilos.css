@@ -237,14 +237,16 @@ figure {
   color: white;
   background-color: #776497;
   border: 2px solid #3d354b;
-  padding: 5px 20px;
+  padding: 15px 30px;
   text-decoration: none;
   border-radius: 5px;
+  border-style: none;
 }
 .event-url-2:hover {  
-background-color: rgb(191, 191, 223);
-text-decoration: none;
-color: #501daa;
+  background-color: rgb(191, 191, 223);
+  text-decoration: none;
+  color: #501daa;
+  transition: 2s;
 }
 
 .contact {

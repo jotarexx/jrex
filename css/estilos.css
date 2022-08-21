@@ -205,6 +205,9 @@ figure {
   height: 200px;
   object-fit: cover;
 }
+.event:hover{
+  border: 1px solid #adb1ff ;
+}
 
 .event-detail {
   margin: 20px 40px;
